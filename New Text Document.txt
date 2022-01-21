@@ -1,0 +1,24 @@
+For Desktop Application: (GUI Application)
+=============================================
+AWT -> Swing -> JavaFX
+Java2D
+Java3D
+
+---------------------------------
+Web Application:
+-------------------
+1. Front-End
+	HTML + CSS + JS
+	
+2. Backend End->
+	JavaEE -> Servlet and JSP
+	Framework:
+	Spring Framework (Eco System)
+		Spring MVC
+		Spring Rest
+		Spring DATA
+		Spring JPA		
+		Spring Security
+		Spring Batch
+		
+	SpringBoot
